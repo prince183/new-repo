@@ -1,1 +1,2 @@
-console.log("main file ")dsjncjsdhcfbseb
+console.log("main file ")
+console.log(3)
